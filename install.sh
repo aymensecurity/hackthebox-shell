@@ -20,7 +20,7 @@ $CYAN|||||||||||||||||||||||||||||||||||||||||||||||||
 echo $MAGENTA"================================================="
 echo ""
 
-clear
+
 echo -n "Inter Username for shell : "
 read get
 clear
