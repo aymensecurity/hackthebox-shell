@@ -1,5 +1,5 @@
 <center><img src="./hackthebox-shell.JPG"></center>
-# Parrot os zsh shell with auto complete    
+# Parrot os hackthebox shell theme     
 
  
 # installion
